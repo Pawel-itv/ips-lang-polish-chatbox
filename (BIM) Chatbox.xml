@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="bimchatbox" version="400007">
+  <word key="__app_bimchatbox" js="0">Chatbox - Darmowa Wersja</word>
+  <word key="chatbox_enter" js="0">Enter</word>
+  <word key="chatbox_delete" js="0">Usuń</word>
+  <word key="chatbox_delete_confirm" js="0">Czy jesteś pewny że chcesz usunąć?</word>
+  <word key="module__bimchatbox_chatbox" js="0">Chatbox</word>
+  <word key="chatbox_title" js="0">Chatbox</word>
+  <word key="frontnavigation_bimchatbox" js="0">Chatbox</word>
+  <word key="menutab__bimchatbox" js="0">Chatbox</word>
+  <word key="menutab__bimchatbox_icon" js="0">weixin</word>
+  <word key="menu__bimchatbox_chatbox" js="0">Chatbox</word>
+  <word key="menu__bimchatbox_chatbox_settings" js="0">Ustawienia</word>
+  <word key="acplogs__chatbox_settings" js="0">Zaktualizowano ustawienia Czatu</word>
+  <word key="chatbox_conf_on" js="0">Włącz Czat</word>
+  <word key="chatbox_conf_floodlimit" js="0">Kontrola Floodowa</word>
+  <word key="chatbox_conf_floodlimit_desc" js="0">Zapobiegaj wysyłaniu wiadomości w tym okresie (w sekundach). Moderatorzy mogą ominąć ograniczenie.</word>
+  <word key="chatbox_conf_maxlength" js="0">Maksymalna długość wiadomości</word>
+  <word key="chatbox_conf_maxlength_desc" js="0">Maksymalna liczba znaków w wiadomości.</word>
+  <word key="chatbox_conf_chatlimit" js="0">Ilość wiadomości do wyświetlenia</word>
+  <word key="chatbox_conf_chatlimit_desc" js="0">Wprowadź liczbę wiadomości do wyświetlenia</word>
+  <word key="chatbox_conf_canchat" js="0">Kto może korzystać?</word>
+  <word key="chatbox_conf_moderators" js="0">Kto może zarządzać czatem?</word>
+  <word key="chatbox_conf_moderators_desc" js="0">Potrafi ustawić ogłoszenie, blokować użytkowników, usuwać, edytować wiadomości, usuwać wszystkie wiadomości.</word>
+  <word key="chatbox_conf_canEdit" js="0">Kto może edytować wszystkie wiadomości?</word>
+  <word key="chatbox_conf_canDelete" js="0">Kto może usuwać wszystkie wiadomości?</word>
+  <word key="chatbox_error_off" js="0">Czat jest obecnie wyłączony.</word>
+  <word key="chatbox_error_nomsg" js="0">Nie możesz wysłać pustej widomości!</word>
+  <word key="chatbox_error_cannotchat" js="0">Nie masz uprawnień do czatu.</word>
+  <word key="chatbox_error_notmoderator" js="0">Nie masz uprawnień do wykonania tej czynności</word>
+  <word key="chatbox_error_flood" js="0">Wysyłasz wiadmości za szybko! Proszę zaczekać %s sekund, aby wysłać kolejną wiadmość.</word>
+  <word key="chatbox_error_toomanyemo" js="0">Możesz użyć tylko {{num}} emotikonów w wiadomości</word>
+  <word key="chatbox_error_inblock" js="0">Nie możesz nic pisać na czacie, ponieważ jesteś zablokowany! Zgłoś się do moderatora, aby poznać powód blokady!</word>
+  <word key="chatbox_conf_maxemoticons" js="0">Maksymalna ilość emotikon w wiadomości.</word>
+  <word key="chatbox_management" js="0">Zarządzanie Czatem</word>
+  <word key="block_bimchatbox" js="0">Chatbox</word>
+  <word key="block_bimchatbox_desc" js="0"></word>
+  <word key="chatbox_blocklist" js="0">Lista zablokowanych</word>
+  <word key="chatbox_conf_blocklist" js="0">Zablokuj Użytkowników.</word>
+  <word key="chatbox_conf_blocklist_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_info'>Wpisz nazwe Użytkownika, oddzielając je przecinkami.</p>]]></word>
+  <word key="chatbox_manage" js="0">Zarządzaj</word>
+  <word key="chatbox_clearchat" js="0">Wyczyść WSZYSTKIE wiadomości.</word>
+  <word key="chatbox_clearchat_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_error'>Nie można przwyrócić!</p>]]></word>
+  <word key="chatbox_conf_announcements" js="0">Regulamin</word>
+  <word key="chatbox_conf_announcements_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_info'>Możesz użyć kodu HTML.</p>]]></word>
+  <word key="chatbox_error_noper" js="0">Nie masz uprawnień do czatu.</word>
+  <word key="chatbox_placeholder" js="0">Co słychać?</word>
+  <word key="chatbox_group_cansee" js="0">Kto widzi czat?</word>
+  <word key="chatbox_emoticons" js="0">Emotikony</word>
+  <word key="chatbox_send" js="0">Wyślij</word>
+  <word key="chatbox_togglesound" js="0">Włącz powiadomoenia dźwiękowe przy wiadomości.</word>
+  <word key="chatbox_toggleChat" js="0">Przełącz</word>
+  <word key="seconds" js="0">sekundy</word>
+  <word key="chatbox_conf_height" js="0">Domyślna minimalna wysokość (min-height)</word>
+  <word key="chatbox_conf_anntab" js="0">Pokaż link do reglulaminu</word>
+  <word key="chatbox_conf_anntab_desc" js="0">Regulamin zostanie wyświetlony na oddzielnej stronie, odnośnik do niego będzie wyświetlony w górnej części Czatu.</word>
+  <word key="chatbox_emocategories" js="0">Kategorie</word>
+  <word key="chatbox_conf_interval" js="0">Częstotliwość odświeżania</word>
+  <word key="chatbox_conf_interval_desc" js="0"><![CDATA[w milisekundach.<br>Np: 10000 = 10 sekund]]></word>
+  <word key="chatbox_error_maxlength" js="0">Wiadomość jest za długa.</word>
+  <word key="chatbox_conf_ordertop" js="0">Wyświetlaj nowe wiadomości na górze?</word>
+  <word key="chatbox_conf_hidePhoto" js="0">Ukryj awatray?</word>
+  <word key="chatbox_error_nodata" js="0">Brak danych..</word>
+  <word key="chatbox_edit" js="0">Edytuj wiadmość</word>
+  <word key="chatbox_tab_basic" js="0">Ogólne</word>
+  <word key="chatbox_tab_advanced" js="0">Zaawansowane</word>
+  <word key="chatbox_conf_timeformat" js="0">Format czasu</word>
+  <word key="chatbox_12hour" js="0">Pokazuj czas z AM / PM</word>
+  <word key="chatbox_24hour" js="0">Pokaż czas w formacie 24-godzinnym</word>
+  <word key="chatbox_time_am" js="0">AM</word>
+  <word key="chatbox_time_pm" js="0">PM</word>
+  <word key="chatbox_mention" js="0">Kliknij, aby oznaczyć</word>
+  <word key="chatbox_conf_autoClear" js="0">Automatycznie usuwaj stare wiadomości</word>
+  <word key="chatbox_conf_autoClear_desc" js="0">Stare wiadomości zostaną automatycznie usunięte z bazy danych podczas aktualizacji wiadomości.</word>
+  <word key="chatbox_conf_canView" js="0">Kto widzi czat?</word>
+  <word key="chatbox_error_noajax" js="0">Twoja przeglądarka nie obsługuje javascript</word>
+  <word key="chatbox_conf_imgPost" js="0">Pozwolić na dodawanie obrazków?</word>
+  <word key="chatbox_conf_videoPost" js="0">Pozwolić na wyświetlanie YouTube?</word>
+  <word key="chatbox_conf_editOwn" js="0">Kto może edytować własne wiadomości?</word>
+  <word key="chatbox_tab_perm" js="0">Uprawnienia</word>
+  <word key="ignore_chatbox" js="0">Chatbox</word>
+  <word key="cb_loadmore" js="0">Pokaż więcej</word>
+  <word key="confirmDelete" js="0">Czy na pewno chcesz usunąć tę wiadomość??</word>
+  <word key="chatbox_month_0" js="0">Sty</word>
+  <word key="chatbox_month_1" js="0">Lut</word>
+  <word key="chatbox_month_2" js="0">Marz</word>
+  <word key="chatbox_month_3" js="0">Kwi</word>
+  <word key="chatbox_month_4" js="0">Maj</word>
+  <word key="chatbox_month_5" js="0">Cze</word>
+  <word key="chatbox_month_6" js="0">Lip</word>
+  <word key="chatbox_month_7" js="0">Sie</word>
+  <word key="chatbox_month_8" js="0">Wrz</word>
+  <word key="chatbox_month_9" js="0">Paź</word>
+  <word key="chatbox_month_10" js="0">Lis</word>
+  <word key="chatbox_month_11" js="0">Gru</word>
+  <word key="chatbox_today" js="0">Dziś</word>
+  <word key="chatbox_disconnect" js="0">Chatbox został rozłączony.</word>
+  <word key="chatbox_reconnect" js="0">Kliknij, aby spróbować ponownie się połączyć</word>
+  <word key="chatbox_connecting" js="0">Łączenie, proszę czekać...</word>
+  <word key="chatbox_save" js="0">Zapisz</word>
+  <word key="chatbox_cancel" js="0">Anuluj</word>
+  <word key="chatbox_error_noolder" js="0">Brak starszych wiadomości do wyświetlenia.</word>
+  <word key="menu__bimchatbox_chatbox_moderators" js="0">Logi Moderatora</word>
+  <word key="chatbox_log_delete" js="0">Usunięto wiadomość: </word>
+  <word key="chatbox_log_edit" js="0">Edytowano wiadomość: </word>
+  <word key="chatbox_log_pure" js="0">Usunięto wszystkie wiadomości.</word>
+  <word key="chatbox_log_clear" js="0">Usunięto wszystkie wiadomości.</word>
+  <word key="chatbox_log_ann" js="0">Zaktualizowane ogłoszenie: </word>
+  <word key="chatbox_log_ban" js="0">Zmieniono ustawienie "Blokowania użytkowników": </word>
+  <word key="chatbox_log_unban" js="0">Odbanowano wszystkich użytkowników</word>
+  <word key="chatbox_clearlogs" js="0">Wyczyść wszystkie logi</word>
+  <word key="chatbox_clearlogs_confirm" js="0">Czy na pewno chcesz wyczyścić wszystkie logi?</word>
+  <word key="chatbox_saved" js="0">Zapisano.</word>
+  <word key="chatbox_deleted" js="0">Usunięto.</word>
+  <word key="chatbox_rules_link" js="0">Kliknij tutaj, aby zapoznać się z regulaminem Czatu.</word>
+  <word key="chatbox_rules_title" js="0">Regulamin czatu</word>
+  <word key="chatbox_playvideo" js="0">Odtwarzanie wideo</word>
+  <word key="chatbox_conf_giphy" js="0">GIPHY</word>
+  <word key="bim_giphy" js="0">GIPHY</word>
+  <word key="chatbox_rules" js="0">Regulamin</word>
+  <word key="chatbox_conf_hide_enter_mobile" js="0">Ukryj button Enter na urządzaniach mobilnych</word>
+  <word key="chatbox_conf_giphy_desc" js="0"><![CDATA[Możesz łatwo znaleźć największą na świecie bibliotekę GIFÓW. Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>GIPHY</b></a>.]]></word>
+  <word key="cb_giphy_no" js="0">Wyłączone</word>
+  <word key="cb_giphy_button" js="0">Button</word>
+  <word key="cb_giphy_button_desc" js="0">Pokaż przycisk GIPHY, użytkownik może kliknąć, aby otworzyć wyskakujące okienko, aby znaleźć obrazy GIF</word>
+  <word key="cb_giphy_cmd" js="0">Komenda /giphy</word>
+  <word key="cb_giphy_cmd_desc" js="0">Np: /giphy doraemon</word>
+  <word key="cb_giphy_both" js="0">Button i komenda</word>
+  <word key="cb_giphy_both_desc" js="0">Użytkownik może użyć przycisku i polecenia /giphy, aby znaleźć gif'a</word>
+  <word key="chatbox_header_chat" js="0">Czatowanie</word>
+  <word key="chatbox_header_media" js="0">Media</word>
+  <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>GIPHY</b></a>]]></word>
+  <word key="confirmDelete" js="1">Czy na pewno chcesz usunąć tę wiadomość?</word>
+  <word key="chatbox_error_toomanyemo" js="1">Możesz użyć tylko {{num}} emotikon w wiadomości</word>
+  <word key="chatbox_time_am" js="1">AM</word>
+  <word key="chatbox_time_pm" js="1">PM</word>
+  <word key="chatbox_month_0" js="1">Sty</word>
+  <word key="chatbox_month_1" js="1">Lut</word>
+  <word key="chatbox_month_2" js="1">Marz</word>
+  <word key="chatbox_month_3" js="1">Kwi</word>
+  <word key="chatbox_month_4" js="1">Maj</word>
+  <word key="chatbox_month_5" js="1">Cze</word>
+  <word key="chatbox_month_6" js="1">Lip</word>
+  <word key="chatbox_month_7" js="1">Sie</word>
+  <word key="chatbox_month_8" js="1">Wrz</word>
+  <word key="chatbox_month_9" js="1">Paź</word>
+  <word key="chatbox_month_10" js="1">Lis</word>
+  <word key="chatbox_month_11" js="1">Gru</word>
+  <word key="chatbox_today" js="1">Dziś</word>
+  <word key="chatbox_disconnect" js="1">Chatbox został rozłączony.</word>
+  <word key="chatbox_reconnect" js="1">>Kliknij, aby spróbować ponownie się połączyć</word>
+  <word key="chatbox_connecting" js="1">Łączenie, proszę czekać...</word>
+  <word key="chatbox_save" js="1">Zapisz</word>
+  <word key="chatbox_cancel" js="1">Anuluj</word>
+  <word key="chatbox_error_noolder" js="1">Brak starszych wiadomości do wyświetlenia.</word>
+  <word key="cb_expandPlayer" js="1">Odtwórz wideo w popup (okienku)</word>
+ </app>
+</language>

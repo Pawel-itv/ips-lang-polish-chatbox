@@ -8,8 +8,10 @@
 ## 🧰 Install and update
 
 1. Go to: AdminCP -> Customization -> LOCALIZATION -> **Languages**.
+
    ![Install the Translation](https://files.axendev.net/github/lang/acpLang.png)
 2. Select Polish / Polski and click "**Upload a new version**".
+
    ![Manual Upload](https://files.axendev.net/github/lang/uploadNewVersion.png)
 3. Select file .xml from packet and click install button.
 

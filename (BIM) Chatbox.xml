@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="bimchatbox" version="400007">
+ <app key="bimchatbox" version="420002">
   <word key="__app_bimchatbox" js="0">Chatbox - Darmowa Wersja</word>
   <word key="chatbox_enter" js="0">Enter</word>
   <word key="chatbox_delete" js="0">Usuń</word>
@@ -14,7 +14,7 @@
   <word key="menu__bimchatbox_chatbox_settings" js="0">Ustawienia</word>
   <word key="acplogs__chatbox_settings" js="0">Zaktualizowano ustawienia Czatu</word>
   <word key="chatbox_conf_on" js="0">Włącz Czat</word>
-  <word key="chatbox_conf_floodlimit" js="0">Kontrola Floodowa</word>
+  <word key="chatbox_conf_floodlimit" js="0">Kontrola floodowa</word>
   <word key="chatbox_conf_floodlimit_desc" js="0">Zapobiegaj wysyłaniu wiadomości w tym okresie (w sekundach). Moderatorzy mogą ominąć ograniczenie.</word>
   <word key="chatbox_conf_maxlength" js="0">Maksymalna długość wiadomości</word>
   <word key="chatbox_conf_maxlength_desc" js="0">Maksymalna liczba znaków w wiadomości.</word>
@@ -38,7 +38,7 @@
   <word key="block_bimchatbox_desc" js="0"></word>
   <word key="chatbox_blocklist" js="0">Lista zablokowanych</word>
   <word key="chatbox_conf_blocklist" js="0">Zablokuj Użytkowników.</word>
-  <word key="chatbox_conf_blocklist_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_info'>Wpisz nazwe Użytkownika, oddzielając je przecinkami.</p>]]></word>
+  <word key="chatbox_conf_blocklist_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_info'>Wpisz nazwę Użytkownika, oddzielając je przecinkami.</p>]]></word>
   <word key="chatbox_manage" js="0">Zarządzaj</word>
   <word key="chatbox_clearchat" js="0">Wyczyść WSZYSTKIE wiadomości.</word>
   <word key="chatbox_clearchat_desc" js="0"><![CDATA[<p class='ipsMessage ipsMessage_error'>Nie można przwyrócić!</p>]]></word>
@@ -107,7 +107,7 @@
   <word key="chatbox_log_pure" js="0">Usunięto wszystkie wiadomości.</word>
   <word key="chatbox_log_clear" js="0">Usunięto wszystkie wiadomości.</word>
   <word key="chatbox_log_ann" js="0">Zaktualizowane ogłoszenie: </word>
-  <word key="chatbox_log_ban" js="0">Zmieniono ustawienie "Blokowania użytkowników": </word>
+  <word key="chatbox_log_ban" js="0">Zmieniono ustawienie &quot;Blokowania użytkowników&quot;: </word>
   <word key="chatbox_log_unban" js="0">Odbanowano wszystkich użytkowników</word>
   <word key="chatbox_clearlogs" js="0">Wyczyść wszystkie logi</word>
   <word key="chatbox_clearlogs_confirm" js="0">Czy na pewno chcesz wyczyścić wszystkie logi?</word>
@@ -118,19 +118,30 @@
   <word key="chatbox_playvideo" js="0">Odtwarzanie wideo</word>
   <word key="chatbox_conf_giphy" js="0">GIPHY</word>
   <word key="bim_giphy" js="0">GIPHY</word>
+  <word key="bim_guggy" js="0">GUGGY</word>
   <word key="chatbox_rules" js="0">Regulamin</word>
   <word key="chatbox_conf_hide_enter_mobile" js="0">Ukryj button Enter na urządzaniach mobilnych</word>
-  <word key="chatbox_conf_giphy_desc" js="0"><![CDATA[Możesz łatwo znaleźć największą na świecie bibliotekę GIFÓW. Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>GIPHY</b></a>.]]></word>
+  <word key="chatbox_conf_guggy" js="0">GUGGY</word>
+  <word key="chatbox_conf_guggy_desc" js="0"><![CDATA[Możesz zmienić każdą wiadomość w zabawny, spersonalizowany GIF, Sticker. Upewnij się, że masz zainstalowane <a href='https://invisioncommunity.com/files/file/8892-bim-guggy/' target=_blank><b>GUGGY plugin</b></a>. ]]></word>
+  <word key="cb_guggy_no" js="0">Wyłączone</word>
+  <word key="cb_guggy_button" js="0">Przycisk</word>
+  <word key="cb_guggy_button_desc" js="0">Pokaż przycisk Guggy, użytkownik może kliknąć na niego, żeby otworzyć popup, aby zrobić swój GIF. </word>
+  <word key="cb_guggy_cmd" js="0">Komenda /guggy</word>
+  <word key="cb_guggy_cmd_desc" js="0">np. /guggy i love you more than I can say</word>
+  <word key="cb_guggy_both" js="0">Przycisk i komenda</word>
+  <word key="cb_guggy_both_desc" js="0">Użytkownik może użyć przycisku i komendy /guggy do zrobienia gifa</word>
+  <word key="chatbox_conf_giphy_desc" js="0"><![CDATA[Możesz łatwo znaleźć największą na świecie bibliotekę GIFÓW. Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim-giphy/' target=_blank><b>GIPHY</b></a>.]]></word>
   <word key="cb_giphy_no" js="0">Wyłączone</word>
   <word key="cb_giphy_button" js="0">Button</word>
   <word key="cb_giphy_button_desc" js="0">Pokaż przycisk GIPHY, użytkownik może kliknąć, aby otworzyć wyskakujące okienko, aby znaleźć obrazy GIF</word>
   <word key="cb_giphy_cmd" js="0">Komenda /giphy</word>
   <word key="cb_giphy_cmd_desc" js="0">Np: /giphy doraemon</word>
-  <word key="cb_giphy_both" js="0">Button i komenda</word>
+  <word key="cb_giphy_both" js="0">Przycisk i komenda</word>
   <word key="cb_giphy_both_desc" js="0">Użytkownik może użyć przycisku i polecenia /giphy, aby znaleźć gif'a</word>
   <word key="chatbox_header_chat" js="0">Czatowanie</word>
   <word key="chatbox_header_media" js="0">Media</word>
   <word key="chatbox_error_nogiphy" js="0"><![CDATA[Upewnij się, że zainstalowałeś <a href='https://invisioncommunity.com/files/file/8861-bim42-giphy/' target=_blank><b>GIPHY</b></a>]]></word>
+  <word key="chatbox_error_noguggy" js="0"><![CDATA[Upewnij się, że masz zainstalowane <a href='https://invisioncommunity.com/files/file/8892-bim42-guggy/' target=_blank><b>GUGGY plugin</b></a>.]]></word>
   <word key="confirmDelete" js="1">Czy na pewno chcesz usunąć tę wiadomość?</word>
   <word key="chatbox_error_toomanyemo" js="1">Możesz użyć tylko {{num}} emotikon w wiadomości</word>
   <word key="chatbox_time_am" js="1">AM</word>
@@ -149,11 +160,13 @@
   <word key="chatbox_month_11" js="1">Gru</word>
   <word key="chatbox_today" js="1">Dziś</word>
   <word key="chatbox_disconnect" js="1">Chatbox został rozłączony.</word>
-  <word key="chatbox_reconnect" js="1">>Kliknij, aby spróbować ponownie się połączyć</word>
+  <word key="chatbox_reconnect" js="1">Kliknij, aby spróbować ponownie się połączyć</word>
   <word key="chatbox_connecting" js="1">Łączenie, proszę czekać...</word>
   <word key="chatbox_save" js="1">Zapisz</word>
   <word key="chatbox_cancel" js="1">Anuluj</word>
   <word key="chatbox_error_noolder" js="1">Brak starszych wiadomości do wyświetlenia.</word>
   <word key="cb_expandPlayer" js="1">Odtwórz wideo w popup (okienku)</word>
+  <word key="chatbox_settings_header" js="0">Ustawienia</word>
+  <word key="bimchatbox_error_badchars" js="0">Za dużo znaków specjalnych!</word>
  </app>
 </language>

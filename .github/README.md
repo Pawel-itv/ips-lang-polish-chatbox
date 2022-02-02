@@ -19,4 +19,6 @@
 [Github Releases](//github.com/PawelCode/ips-lang-polish-chatbox/releases)
 
 ## 🔌 Download from other sources:
+- [1shot2kill.pl](https://1shot2kill.pl/topic/110346-spolszczenie-bim-chatbox-free-invision-community/)
 - [Pecetowicz.pl](https://www.pecetowicz.pl/topic/spolszczenie-aplikacji-chatbox-free-invision-commnity-95269)
+- [Invision Community](https://invisioncommunity.com/files/file/9961-bim-chatbox-free-polish-translation/)
